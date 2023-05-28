@@ -1,4 +1,5 @@
 ### Hi there 👋
+*Nice to meet you*
 
 <!--
 **amie2115/amie2115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
+- ->
